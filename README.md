@@ -11,6 +11,8 @@ https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-he
 https://weijiek.medium.com/how-i-learned-zk-snarks-from-scratch-177a01c5514e  
 https://www.di.ens.fr/~nitulesc/files/Survey-SNARKs.pdf (longer, 49 pages)  
 
+https://zkp.science/  
+
 https://zeroknowledge.fm/  
 https://www.notboring.co/p/zero-knowledge  
 
