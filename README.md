@@ -10,6 +10,7 @@ https://blog.decentriq.com/zk-snarks-primer-part-one/ (probably my favorite)
 https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649  
 https://weijiek.medium.com/how-i-learned-zk-snarks-from-scratch-177a01c5514e  
 https://www.di.ens.fr/~nitulesc/files/Survey-SNARKs.pdf (longer, 49 pages)  
+https://eprint.iacr.org/2016/260  
 
 https://zkp.science/  
 
