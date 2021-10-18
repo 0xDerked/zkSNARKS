@@ -3,7 +3,7 @@ Resources and tinkering for learning zkSNARKS
 
 A lot of these resources have overlapping information, but hearing something explained a slightly different way can be very helpful sometimes
 
-https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/
+https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/ /n
 https://vitalik.ca/general/2021/01/26/snarks.html
 https://blog.zkga.me/intro-to-zksnarks
 https://blog.decentriq.com/zk-snarks-primer-part-one/ (probably my favorite)
