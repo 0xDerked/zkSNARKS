@@ -22,3 +22,5 @@ https://github.com/matter-labs/awesome-zero-knowledge-proofs
 https://www.youtube.com/watch?v=qwtOJvFo6vs  
 
 https://www.youtube.com/watch?v=-9TJa1hVsKA&list=LL&index=1  
+
+http://petkus.info/papers/WhyAndHowZkSnarkWorks.pdf
